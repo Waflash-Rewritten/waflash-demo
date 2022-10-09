@@ -1,4 +1,7 @@
 # Waflash Rewritten Demo
+
+**DEMO LINK: [waflashdemo.l3m.tools](https://waflashdemo.l3m.tools "waflashdemo.l3m.tools")**
+
 ### What is Waflash Rewritten?
 "Waflash is a WebAssembly Flash compatible player built with Emscripten. It supports both ActionScript 3.0 and 2.0."
 Said [@vidkidz/waflash](https://github.com/vidkidz/waflash "@vidkidz/waflash").
